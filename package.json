@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://mubarakhusain.github.io/marvel-game-match/",
+  "homepage": "https://mubarakhusain.github.io/marvel-game-match",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
