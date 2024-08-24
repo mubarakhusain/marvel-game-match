@@ -2,6 +2,14 @@
   max-width: 860px;
   margin: 40px auto;
 }
+/* .marvel-title{
+  color: #d32f2f;
+  background-color: white;
+  box-sizing: border-box;
+  padding: 1px;
+  margin: 25px auto;
+
+} */
 button {
   background: none;
   border: 2px solid #fff;
@@ -11,9 +19,10 @@ button {
   font-weight: bold;
   cursor: pointer;
   font-size: 1em;
+  margin: auto 10px;
 }
 button:hover {
-  background: #c23866;
+  background: #d32f2f;
   color: #fff;
 }
 
@@ -21,7 +30,14 @@ button:hover {
 .card-grid{
   margin-top: 40px;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-gap: 20px;
-  
+
+}
+.disabled{
+  background-color: #ccc; /* Gray background to indicate disabled */
+  color: #666; /* Darker text to show it's inactive */
+  border: 2px solid #ccc; /* Change border to match the disabled look */
+  cursor: not-allowed; /* Change cursor to indicate it's disabled */
+  opacity: 0.6; /* Slightly transparent to show disabled state */
 }
