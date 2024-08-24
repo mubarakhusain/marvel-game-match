@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/marvel-game-match/static/css/main.245e3734.css",
-    "main.js": "/marvel-game-match/static/js/main.cf347317.js",
+    "main.js": "/marvel-game-match/static/js/main.3cd5594c.js",
     "index.html": "/marvel-game-match/index.html",
     "main.245e3734.css.map": "/marvel-game-match/static/css/main.245e3734.css.map",
-    "main.cf347317.js.map": "/marvel-game-match/static/js/main.cf347317.js.map"
+    "main.3cd5594c.js.map": "/marvel-game-match/static/js/main.3cd5594c.js.map"
   },
   "entrypoints": [
     "static/css/main.245e3734.css",
-    "static/js/main.cf347317.js"
+    "static/js/main.3cd5594c.js"
   ]
 }
