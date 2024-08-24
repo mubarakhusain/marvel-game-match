@@ -9,16 +9,16 @@ import SingleCard from "./Components/SingleCard";
 
 //cards src info array
 const cardImages = [
-  { src: "/images/avenger-a-icon.png", matched: false },
-  { src: "/images/blackpanther-icon.png", matched: false },
-  { src: "/images/groot-icon.png", matched: false },
-  { src: "/images/iron-man-icon.png", matched: false },
-  { src: "/images/ironman-icon.png", matched: false },
-  { src: "/images/thanos-icon.png", matched: false },
-  { src: "/images/spider-icon.png", matched: false },
-  { src: "/images/thor-axe.png", matched: false },
-  { src: "/images/venom-icon.png", matched: false },
-  { src: "/images/captain-icon.png", matched: false },
+  { src: `${process.env.PUBLIC_URL}/images/avenger-a-icon.png`, matched: false },
+  { src: `${process.env.PUBLIC_URL}/images/blackpanther-icon.png`, matched: false },
+  { src: `${process.env.PUBLIC_URL}/images/groot-icon.png`, matched: false },
+  { src: `${process.env.PUBLIC_URL}/images/iron-man-icon.png`, matched: false },
+  { src: `${process.env.PUBLIC_URL}/images/ironman-icon.png`, matched: false },
+  { src: `${process.env.PUBLIC_URL}/images/thanos-icon.png`, matched: false },
+  { src: `${process.env.PUBLIC_URL}/images/spider-icon.png`, matched: false },
+  { src: `${process.env.PUBLIC_URL}/images/thor-axe.png`, matched: false },
+  { src: `${process.env.PUBLIC_URL}/images/venom-icon.png`, matched: false },
+  { src: `${process.env.PUBLIC_URL}/images/captain-icon.png`, matched: false },
 ];
 
 function App() {
