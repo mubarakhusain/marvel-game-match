@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mubarakhusain/marvel-game-match.git/static/css/main.245e3734.css",
+    "main.js": "/mubarakhusain/marvel-game-match.git/static/js/main.3de7e48f.js",
+    "index.html": "/mubarakhusain/marvel-game-match.git/index.html",
+    "main.245e3734.css.map": "/mubarakhusain/marvel-game-match.git/static/css/main.245e3734.css.map",
+    "main.3de7e48f.js.map": "/mubarakhusain/marvel-game-match.git/static/js/main.3de7e48f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.245e3734.css",
+    "static/js/main.3de7e48f.js"
+  ]
+}
